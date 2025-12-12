@@ -1,0 +1,9 @@
+date,time,league,home_team,away_team,home_odds,draw_odds,away_odds,draw_probability,draw_confidence,home_form,away_form
+2025-12-12,15:00,Danish Superligaen,Ajax Danish,Bayern Danish,2.50,3.20,2.80,0.32,87,2D-1W,1D-2W
+2025-12-12,17:30,Turkish Super Lig,Barcelona Turkish,Real Madrid Turkish,2.20,3.50,3.10,0.28,84,2W-1D,3W
+2025-12-12,19:45,Belgian Pro League,Atletico Belgian,Liverpool Belgian,2.40,3.30,2.90,0.30,86,3D,2W-1D
+2025-12-12,20:00,Swiss Super League,City Swiss,Arsenal Swiss,2.10,3.60,3.30,0.27,85,3W,2D-1W
+2025-12-13,15:00,Portuguese Primeira Liga,Ajax Portuguese,Inter Portuguese,2.30,3.40,3.00,0.29,86,2D-1W,1D-2W
+2025-12-13,16:30,Netherlands Eredivisie,Bayern Netherlands,Chelsea Netherlands,2.50,3.20,2.80,0.31,87,2W-1D,2D-1W
+2025-12-13,18:45,Scottish Premier League,Barcelona Scottish,Manchester United Scottish,2.40,3.30,2.90,0.30,85,2W-1D,3W
+2025-12-13,20:00,Danish Superligaen,Juventus Danish,PSG Danish,2.60,3.10,2.70,0.32,88,1D-2W,3D

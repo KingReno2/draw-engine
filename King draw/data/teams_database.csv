@@ -1,0 +1,99 @@
+league,team,draw_rate,last_5_draws,home_draw_rate,away_draw_rate,avg_goals_for,avg_goals_against,draw_strength
+Danish Superligaen,Ajax Danish,0.32,3,0.35,0.28,1.82,1.45,0.78
+Danish Superligaen,Bayern Danish,0.28,2,0.32,0.24,1.98,1.32,0.72
+Danish Superligaen,Liverpool Danish,0.26,1,0.30,0.22,2.15,1.28,0.68
+Danish Superligaen,Barcelona Danish,0.30,4,0.33,0.27,1.88,1.52,0.75
+Danish Superligaen,Real Madrid Danish,0.25,2,0.28,0.22,2.05,1.42,0.65
+Danish Superligaen,Juventus Danish,0.29,3,0.32,0.26,1.75,1.58,0.73
+Danish Superligaen,PSG Danish,0.27,2,0.31,0.23,2.02,1.35,0.70
+Danish Superligaen,City Danish,0.31,4,0.34,0.28,1.92,1.48,0.77
+Danish Superligaen,Chelsea Danish,0.28,2,0.32,0.24,1.95,1.45,0.71
+Danish Superligaen,United Danish,0.26,1,0.29,0.23,2.08,1.38,0.67
+Danish Superligaen,Atletico Danish,0.32,3,0.35,0.29,1.78,1.62,0.79
+Danish Superligaen,Arsenal Danish,0.24,1,0.27,0.21,2.18,1.25,0.62
+Danish Superligaen,Milan Danish,0.29,3,0.32,0.26,1.85,1.52,0.74
+Danish Superligaen,Inter Danish,0.30,4,0.33,0.27,1.88,1.48,0.76
+Turkish Super Lig,Ajax Turkish,0.30,2,0.33,0.27,1.95,1.48,0.76
+Turkish Super Lig,Bayern Turkish,0.27,3,0.30,0.24,2.05,1.38,0.69
+Turkish Super Lig,Liverpool Turkish,0.25,1,0.28,0.22,2.18,1.32,0.64
+Turkish Super Lig,Barcelona Turkish,0.29,3,0.32,0.26,1.98,1.55,0.74
+Turkish Super Lig,Real Madrid Turkish,0.26,2,0.29,0.23,2.12,1.45,0.67
+Turkish Super Lig,Juventus Turkish,0.28,2,0.31,0.25,1.88,1.62,0.72
+Turkish Super Lig,PSG Turkish,0.26,2,0.29,0.23,2.08,1.42,0.68
+Turkish Super Lig,City Turkish,0.30,4,0.33,0.27,2.02,1.52,0.77
+Turkish Super Lig,Chelsea Turkish,0.27,2,0.30,0.24,2.05,1.48,0.70
+Turkish Super Lig,United Turkish,0.25,1,0.28,0.22,2.15,1.42,0.65
+Turkish Super Lig,Atletico Turkish,0.31,3,0.34,0.28,1.85,1.68,0.78
+Turkish Super Lig,Arsenal Turkish,0.23,0,0.26,0.20,2.25,1.32,0.60
+Turkish Super Lig,Milan Turkish,0.28,3,0.31,0.25,1.95,1.58,0.73
+Turkish Super Lig,Inter Turkish,0.29,3,0.32,0.26,1.98,1.52,0.75
+Belgian Pro League,Ajax Belgian,0.28,2,0.31,0.25,1.88,1.52,0.74
+Belgian Pro League,Bayern Belgian,0.25,1,0.28,0.22,2.12,1.42,0.66
+Belgian Pro League,Liverpool Belgian,0.24,1,0.27,0.21,2.22,1.28,0.62
+Belgian Pro League,Barcelona Belgian,0.27,2,0.30,0.24,2.05,1.58,0.71
+Belgian Pro League,Real Madrid Belgian,0.23,1,0.26,0.20,2.18,1.48,0.61
+Belgian Pro League,Juventus Belgian,0.26,2,0.29,0.23,1.95,1.68,0.70
+Belgian Pro League,PSG Belgian,0.25,2,0.28,0.22,2.15,1.45,0.67
+Belgian Pro League,City Belgian,0.28,3,0.31,0.25,2.05,1.55,0.74
+Belgian Pro League,Chelsea Belgian,0.26,2,0.29,0.23,2.08,1.52,0.69
+Belgian Pro League,United Belgian,0.24,1,0.27,0.21,2.20,1.38,0.64
+Belgian Pro League,Atletico Belgian,0.29,3,0.32,0.26,1.82,1.72,0.76
+Belgian Pro League,Arsenal Belgian,0.22,0,0.25,0.19,2.28,1.35,0.59
+Belgian Pro League,Milan Belgian,0.27,2,0.30,0.24,1.98,1.62,0.72
+Belgian Pro League,Inter Belgian,0.28,3,0.31,0.25,2.02,1.58,0.74
+Swiss Super League,Ajax Swiss,0.29,3,0.32,0.26,1.92,1.50,0.75
+Swiss Super League,Bayern Swiss,0.26,2,0.29,0.23,2.08,1.40,0.68
+Swiss Super League,Liverpool Swiss,0.24,1,0.27,0.21,2.20,1.30,0.63
+Swiss Super League,Barcelona Swiss,0.28,2,0.31,0.25,2.02,1.56,0.72
+Swiss Super League,Real Madrid Swiss,0.25,2,0.28,0.22,2.15,1.46,0.65
+Swiss Super League,Juventus Swiss,0.27,2,0.30,0.24,1.92,1.65,0.71
+Swiss Super League,PSG Swiss,0.26,2,0.29,0.23,2.10,1.43,0.68
+Swiss Super League,City Swiss,0.29,3,0.32,0.26,2.00,1.53,0.75
+Swiss Super League,Chelsea Swiss,0.27,2,0.30,0.24,2.06,1.50,0.70
+Swiss Super League,United Swiss,0.25,1,0.28,0.22,2.18,1.40,0.66
+Swiss Super League,Atletico Swiss,0.30,3,0.33,0.27,1.88,1.70,0.77
+Swiss Super League,Arsenal Swiss,0.23,0,0.26,0.20,2.25,1.35,0.61
+Swiss Super League,Milan Swiss,0.28,2,0.31,0.25,1.96,1.60,0.73
+Swiss Super League,Inter Swiss,0.29,3,0.32,0.26,2.00,1.56,0.75
+Portuguese Primeira Liga,Ajax Portuguese,0.27,2,0.30,0.24,1.90,1.48,0.72
+Portuguese Primeira Liga,Bayern Portuguese,0.24,1,0.27,0.21,2.10,1.38,0.64
+Portuguese Primeira Liga,Liverpool Portuguese,0.23,1,0.26,0.20,2.22,1.28,0.61
+Portuguese Primeira Liga,Barcelona Portuguese,0.26,2,0.29,0.23,2.00,1.54,0.70
+Portuguese Primeira Liga,Real Madrid Portuguese,0.22,1,0.25,0.19,2.16,1.44,0.60
+Portuguese Primeira Liga,Juventus Portuguese,0.25,2,0.28,0.22,1.90,1.62,0.68
+Portuguese Primeira Liga,PSG Portuguese,0.24,2,0.27,0.21,2.12,1.40,0.65
+Portuguese Primeira Liga,City Portuguese,0.27,3,0.30,0.24,1.98,1.50,0.72
+Portuguese Primeira Liga,Chelsea Portuguese,0.25,2,0.28,0.22,2.04,1.48,0.67
+Portuguese Primeira Liga,United Portuguese,0.23,1,0.26,0.20,2.16,1.36,0.62
+Portuguese Primeira Liga,Atletico Portuguese,0.28,3,0.31,0.25,1.86,1.68,0.74
+Portuguese Primeira Liga,Arsenal Portuguese,0.21,0,0.24,0.18,2.24,1.32,0.58
+Portuguese Primeira Liga,Milan Portuguese,0.26,2,0.29,0.23,1.94,1.58,0.70
+Portuguese Primeira Liga,Inter Portuguese,0.27,3,0.30,0.24,1.98,1.54,0.72
+Netherlands Eredivisie,Ajax Netherlands,0.30,3,0.33,0.27,1.95,1.52,0.77
+Netherlands Eredivisie,Bayern Netherlands,0.27,2,0.30,0.24,2.05,1.40,0.70
+Netherlands Eredivisie,Liverpool Netherlands,0.25,1,0.28,0.22,2.18,1.32,0.66
+Netherlands Eredivisie,Barcelona Netherlands,0.29,3,0.32,0.26,2.00,1.56,0.75
+Netherlands Eredivisie,Real Madrid Netherlands,0.26,2,0.29,0.23,2.12,1.46,0.69
+Netherlands Eredivisie,Juventus Netherlands,0.28,2,0.31,0.25,1.92,1.64,0.74
+Netherlands Eredivisie,PSG Netherlands,0.27,2,0.30,0.24,2.08,1.42,0.71
+Netherlands Eredivisie,City Netherlands,0.30,4,0.33,0.27,2.04,1.54,0.78
+Netherlands Eredivisie,Chelsea Netherlands,0.28,2,0.31,0.25,2.07,1.50,0.72
+Netherlands Eredivisie,United Netherlands,0.26,1,0.29,0.23,2.16,1.40,0.68
+Netherlands Eredivisie,Atletico Netherlands,0.31,4,0.34,0.28,1.88,1.70,0.79
+Netherlands Eredivisie,Arsenal Netherlands,0.24,1,0.27,0.21,2.22,1.35,0.64
+Netherlands Eredivisie,Milan Netherlands,0.29,3,0.32,0.26,1.98,1.60,0.75
+Netherlands Eredivisie,Inter Netherlands,0.30,4,0.33,0.27,2.02,1.56,0.77
+Scottish Premier League,Ajax Scottish,0.25,2,0.28,0.22,1.85,1.45,0.68
+Scottish Premier League,Bayern Scottish,0.22,1,0.25,0.19,2.05,1.35,0.60
+Scottish Premier League,Liverpool Scottish,0.20,0,0.23,0.17,2.15,1.25,0.56
+Scottish Premier League,Barcelona Scottish,0.24,2,0.27,0.21,1.95,1.50,0.66
+Scottish Premier League,Real Madrid Scottish,0.21,1,0.24,0.18,2.10,1.40,0.58
+Scottish Premier League,Juventus Scottish,0.23,1,0.26,0.20,1.85,1.55,0.64
+Scottish Premier League,PSG Scottish,0.22,1,0.25,0.19,2.05,1.38,0.61
+Scottish Premier League,City Scottish,0.26,3,0.29,0.23,1.95,1.48,0.70
+Scottish Premier League,Chelsea Scottish,0.24,2,0.27,0.21,2.00,1.45,0.65
+Scottish Premier League,United Scottish,0.22,1,0.25,0.19,2.12,1.32,0.61
+Scottish Premier League,Atletico Scottish,0.27,3,0.30,0.24,1.80,1.62,0.72
+Scottish Premier League,Arsenal Scottish,0.20,0,0.23,0.17,2.18,1.30,0.55
+Scottish Premier League,Milan Scottish,0.24,2,0.27,0.21,1.90,1.55,0.67
+Scottish Premier League,Inter Scottish,0.25,3,0.28,0.22,1.95,1.52,0.69
